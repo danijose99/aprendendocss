@@ -1,5 +1,30 @@
+* {
+    margin-left: 1%;
+    margin-right: 1%;
+}
 .top { 
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+}
+#logo-sound {
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#wordmark {
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sound {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px solid;
+}
+#saiba-mais {
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
