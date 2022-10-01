@@ -1,3 +1,4 @@
+
 * {
     margin-left: 1%;
     margin-right: 1%;
@@ -53,4 +54,16 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
+    border-top: 1px solid;
+    color: gray;
+}
+
+#search {
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+}
+
+#logo {
+    width: 10px;
 }
